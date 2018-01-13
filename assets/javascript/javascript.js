@@ -7,7 +7,7 @@
         // this object holds different pictures which to populate based on the amount of incorrect guesses
 
         var picture=[{
-                pic:"././assets/images/HM1.jpg"
+                pic:"././assets/images/HM1.JPG"
             },{
                 pic:"././assets/images/HM2.jpg"
             },{

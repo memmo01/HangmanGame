@@ -46,6 +46,7 @@
             $(".wrongL").empty();
             $(".HMpic").empty();
             $(".incorrect-sect").empty();
+            $(".incorrect-sect").html("Incorrect Letters:");
 
 
             $(".win-number").html(wins);

@@ -45,6 +45,7 @@
             $(".hangman").empty();
             $(".wrongL").empty();
             $(".HMpic").empty();
+            $(".incorrect-sect").empty();
 
 
             $(".win-number").html(wins);
